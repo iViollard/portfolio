@@ -289,3 +289,7 @@ footer.page-footer {
 .brand-logo img {
     height: 64px;
 }
+
+footer h3, footer p {
+    color:#ffffff;
+}
